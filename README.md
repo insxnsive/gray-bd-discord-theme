@@ -10,3 +10,5 @@ Installation:
 02 And Just paste everything in the "Nate-Gray.css", into the "CSS Editor", and you're ready to go.
 
 <hr>
+
+<img src="https://i.imgur.com/bJMl6zF.jpg"/>
