@@ -8,9 +8,9 @@ Simple Gray Better Discord theme, Inspired by Mozilla Firefox's Gray Theme.
 
 # Installation:
 
-- After Downloading "Nate - Gray.css". Go to: "Custom CSS".
+- After Downloading "Nate - Gray v2.0.css". Go to: "Themes" and "Open Theme Folder"
 
-- And Just paste everything in the "Nate-Gray.css", into the "CSS Editor", and you're ready to go.
+- After that, throw "Nate - Gray v2.0.css", into the Folder, and you're ready to go.
 
 <hr>
 
