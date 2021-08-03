@@ -8,15 +8,7 @@
  * @source https://raw.githack.com/dodiscordnate/gray-bd-discord-theme/main/Nate%20-%20Gray%20v2.0.css
 */
 
-/**
- * @name Nate's Gray Theme
- * @version 2.0.0
- * @description Simple Gray Better Discord theme, Inspired by Mozilla Firefox's Gray Theme.
- * @author neite#0666
- * @authorLink https://github.com/dodiscordnate
- * @website https://github.com/dodiscordnate/
- * @source https://raw.githack.com/dodiscordnate/gray-bd-discord-theme/main/Nate%20-%20Gray%20v2.0.css
-*/
+@import url(https://raw.githack.com/hormelcookies/dark-discord/hormelcookies-patch-1/src/source.css);
 
 .theme-dark,
 .theme-light,
